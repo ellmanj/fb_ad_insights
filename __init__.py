@@ -1,0 +1,1 @@
+from fb_ad_insights import FbInsightsReport
